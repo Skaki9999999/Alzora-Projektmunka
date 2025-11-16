@@ -1,5 +1,5 @@
-# Alzora-Projektmunka
-Céges weboldal projektmunka Alzora néven IKT-ra
+# Eppla-Projektmunka
+Céges weboldal projektmunka Eppla néven IKT-ra
 Trello: https://trello.com/b/kiE8rTyL/alzora-projektmunka
 
 Közreműködők: B. Bence és S. Imad
