@@ -8,7 +8,7 @@ Trello: https://trello.com/b/kiE8rTyL/eppla-projektmunka
 
 ## Látványterv
 
-!(Kép)[látványterv.png]
+!(Kép)[]
 
 ## Cég név: Eppla
 egy telefonokkal, kifejezetten apple termékekkel foglalkozó cég 
