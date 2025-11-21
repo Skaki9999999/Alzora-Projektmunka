@@ -9,3 +9,16 @@ Trello: https://trello.com/b/kiE8rTyL/eppla-projektmunka
 ## Látványterv
 
 !(Kép)[valami.jpg]
+
+## Cég név: Eppla
+egy telefonokkal, kifejezetten apple termékekkel foglalkozó cég 
+
+## Kezdőlap
+választható menüpontok
+
+## Menüpontok
+-Termékek
+-Kapcsolat
+-Vásárlók általi visszajelzések
+
+
